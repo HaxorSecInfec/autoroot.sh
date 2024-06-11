@@ -28,6 +28,18 @@
 
 </samp>
 
+<div align="center"><h1>Requirements:</h1></div>
+
+<samp>
+  
+* GIT
+  
+* WGET
+  
+* GCC
+  
+</samp>
+
 <div align="center"><h1>How To Run ?</h1></div>
 
 
